@@ -1,0 +1,93 @@
+Dataset,K,Variant,Mean,Std
+PubMed,2,Blind Propagation,80.36,0.79
+PubMed,2,+ Energy Monitor,80.36,0.79
+PubMed,2,+ Entropy Gating,80.61,0.75
+PubMed,2,SETTA Full,80.61,0.75
+PubMed,5,Blind Propagation,79.74,0.59
+PubMed,5,+ Energy Monitor,79.74,0.59
+PubMed,5,+ Entropy Gating,80.08,0.51
+PubMed,5,SETTA Full,80.08,0.51
+PubMed,10,Blind Propagation,77.62,0.63
+PubMed,10,+ Energy Monitor,77.75,0.71
+PubMed,10,+ Entropy Gating,78.93,0.53
+PubMed,10,SETTA Full,79.01,0.58
+PubMed,15,Blind Propagation,75.48,0.71
+PubMed,15,+ Energy Monitor,77.19,0.48
+PubMed,15,+ Entropy Gating,77.94,0.45
+PubMed,15,SETTA Full,78.54,0.39
+PubMed,20,Blind Propagation,74.51,0.41
+PubMed,20,+ Energy Monitor,76.26,0.4
+PubMed,20,+ Entropy Gating,77.57,0.46
+PubMed,20,SETTA Full,78.2,0.38
+PubMed,30,Blind Propagation,72.46,0.3
+PubMed,30,+ Energy Monitor,75.39,0.27
+PubMed,30,+ Entropy Gating,76.63,0.38
+PubMed,30,SETTA Full,77.59,0.3
+PubMed,40,Blind Propagation,71.32,0.41
+PubMed,40,+ Energy Monitor,74.81,0.28
+PubMed,40,+ Entropy Gating,76.21,0.48
+PubMed,40,SETTA Full,77.17,0.21
+PubMed,50,Blind Propagation,70.61,0.25
+PubMed,50,+ Energy Monitor,74.37,0.34
+PubMed,50,+ Entropy Gating,75.85,0.27
+PubMed,50,SETTA Full,76.76,0.26
+PubMed,60,Blind Propagation,70.12,0.31
+PubMed,60,+ Energy Monitor,74.18,0.38
+PubMed,60,+ Entropy Gating,75.6,0.33
+PubMed,60,SETTA Full,76.79,0.29
+PubMed,70,Blind Propagation,69.8,0.34
+PubMed,70,+ Energy Monitor,73.96,0.35
+PubMed,70,+ Entropy Gating,75.28,0.3
+PubMed,70,SETTA Full,76.67,0.28
+PubMed,80,Blind Propagation,69.5,0.28
+PubMed,80,+ Energy Monitor,73.71,0.52
+PubMed,80,+ Entropy Gating,75.09,0.29
+PubMed,80,SETTA Full,76.48,0.36
+CS,10,Blind Propagation,88.36,0.09
+CS,10,+ Energy Monitor,88.36,0.09
+CS,10,+ Entropy Gating,91.39,0.1
+CS,10,SETTA Full,91.39,0.1
+CS,20,Blind Propagation,87.09,0.11
+CS,20,+ Energy Monitor,87.09,0.11
+CS,20,+ Entropy Gating,91.37,0.11
+CS,20,SETTA Full,91.37,0.11
+CS,30,Blind Propagation,85.59,0.19
+CS,30,+ Energy Monitor,85.61,0.21
+CS,30,+ Entropy Gating,91.17,0.12
+CS,30,SETTA Full,91.17,0.13
+CS,40,Blind Propagation,84.39,0.14
+CS,40,+ Energy Monitor,85.08,0.22
+CS,40,+ Entropy Gating,91.06,0.14
+CS,40,SETTA Full,91.17,0.14
+CS,50,Blind Propagation,83.45,0.15
+CS,50,+ Energy Monitor,84.69,0.19
+CS,50,+ Entropy Gating,90.85,0.14
+CS,50,SETTA Full,91.1,0.14
+CS,60,Blind Propagation,82.53,0.12
+CS,60,+ Energy Monitor,84.44,0.19
+CS,60,+ Entropy Gating,90.64,0.14
+CS,60,SETTA Full,91.05,0.15
+CS,70,Blind Propagation,81.66,0.11
+CS,70,+ Energy Monitor,84.11,0.23
+CS,70,+ Entropy Gating,90.39,0.15
+CS,70,SETTA Full,90.98,0.16
+CS,80,Blind Propagation,80.51,0.14
+CS,80,+ Energy Monitor,83.86,0.19
+CS,80,+ Entropy Gating,90.06,0.17
+CS,80,SETTA Full,90.91,0.17
+CS,90,Blind Propagation,79.64,0.12
+CS,90,+ Energy Monitor,83.45,0.2
+CS,90,+ Entropy Gating,89.94,0.18
+CS,90,SETTA Full,90.75,0.18
+CS,100,Blind Propagation,78.9,0.12
+CS,100,+ Energy Monitor,83.07,0.21
+CS,100,+ Entropy Gating,89.85,0.19
+CS,100,SETTA Full,90.62,0.18
+CS,110,Blind Propagation,78.11,0.11
+CS,110,+ Energy Monitor,82.85,0.24
+CS,110,+ Entropy Gating,89.75,0.19
+CS,110,SETTA Full,90.58,0.18
+CS,120,Blind Propagation,77.47,0.12
+CS,120,+ Energy Monitor,82.71,0.25
+CS,120,+ Entropy Gating,89.65,0.19
+CS,120,SETTA Full,90.56,0.19
