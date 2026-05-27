@@ -30,7 +30,6 @@ Main experiment scripts call `config.get_setta_config()`. If the validation-sele
 .
 ├── config.py
 ├── exp_val_ab_risk_selection_constrained_v2.py
-├── exp_validation-based_selection.py
 ├── exp1_main_results.py
 ├── exp2_scalability_robustness.py
 ├── exp3_postprocessing.py
