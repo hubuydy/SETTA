@@ -2,7 +2,7 @@
 
 SETTA is a training-free, learnable-parameter-free, prediction-level graph test-time adaptation framework for frozen GNN predictions. It refines frozen node-classification outputs by combining semantic route construction, spectral-energy-guided prediction diffusion, and entropy-gated selective acceptance.
 
-This repository contains the experimental code and result files for:
+This repository contains the experimental code for:
 
 **SETTA: Parameter-Free Test-Time Adaptation for Graph Neural Networks via Spectral-Energy-Guided Semantic Refinement**
 
@@ -39,11 +39,10 @@ Main experiment scripts call `config.get_setta_config()`. If the validation-sele
 ├── exp6_transition_analysis.py
 ├── exp7.py
 ├── run_validation_then_main.py
-├── figures/
-│   └── plot_all_figures.py
-└── results/
-    └── validation_ab_selection/
+└── plot_all_figures.py
 ```
+
+Generated result files and manuscript figures are written to `results/` and `figures/`, respectively. These output directories are ignored by Git.
 
 ## Environment
 
@@ -110,7 +109,7 @@ python run_validation_then_main.py --skip-selection
 After result files are available, regenerate manuscript figures with:
 
 ```bash
-python figures/plot_all_figures.py
+python plot_all_figures.py
 ```
 
 ## Experiment Summary
@@ -132,4 +131,3 @@ Some implementation symbols retain the old `DSSR`/`dssr_refine` name for backwar
 - SETTA is not configuration-free: structural settings are fixed by dataset-level protocol, while `alpha` and `beta` are selected from validation data.
 - SETTA does not use test labels, gradients, or parameter updates during adaptation.
 - Current implementation focuses on benchmark-scale graph mining and uses dense semantic graph construction.
-
